@@ -285,3 +285,9 @@ Contributors:
 # License
 
 MIT
+
+
+# Fork Changes
+
+Updated to support newer version(s*) of python <br>
+\*only tested on 3.14.2 / Windows 10
